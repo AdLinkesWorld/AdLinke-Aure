@@ -1,0 +1,15 @@
+/docs
+   /adlinke-cloud
+       /concepts
+       /how-to
+       /tutorials
+       /architecture
+       /cli
+       /powershell
+           /v1
+           /v2
+           /vNext
+       /api
+       /sdk
+       /security
+       /governance
