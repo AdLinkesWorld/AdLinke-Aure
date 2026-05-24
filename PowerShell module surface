@@ -1,0 +1,17 @@
+AdLinke.Cloud.Identity
+   Get-AdlIdentityUser
+   New-AdlIdentityUser
+   Remove-AdlIdentityUser
+
+AdLinke.Cloud.Compute
+   Get-AdlVm
+   New-AdlVm
+   Start-AdlVm
+   Stop-AdlVm
+   Remove-AdlVm
+
+AdLinke.Cloud.Storage
+   Get-AdlStorageAccount
+   New-AdlStorageAccount
+   Get-AdlBlob
+   Set-AdlBlob
