@@ -1,0 +1,4 @@
+# Example with PlatyPS
+New-MarkdownHelp -Module AdLinke.Cloud `
+                 -OutputFolder .\docs-adlinke\powershell\v1 `
+                 -Force
